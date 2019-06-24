@@ -8,11 +8,13 @@
 #### 画像
 
 * 基本アイコン  
-<img width="150" src="cs_tokyo.png" />  
+  <img width="150" src="cs_tokyo.png" />  
+
 * イベントアイコン  
-<img width="150" src="cs_tokyo_connpass.png" />  
+  <img width="150" src="cs_tokyo_connpass.png" />  
+  
 * 背景画像  
-<img width="150" src="cs_tokyo_connpass_event_bg.png" />  
+  <img width="150" src="cs_tokyo_connpass_event_bg.png" />  
 
 ## 行動規範
 
